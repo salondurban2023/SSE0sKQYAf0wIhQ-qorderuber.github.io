@@ -1,0 +1,31 @@
+{
+  "short_name": "Mr D Food",
+  "name": "Mr D Food - Delivered Fast And Hot across SA!",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play", 
+      "id": "com.uber.eats", 
+      "url": "https://ap3x.adj.st/?adjust_t=q604b4&adjust_deeplink=ubereats://&adjust_engagement_type=fallback_click&adjust_fallback=https://play.google.com/store/apps/details?id=com.uber.eats"},
+    {
+      "platform": "itunes",
+      "url": "https://ap3x.adj.st/?adjust_t=q604b4&adjust_deeplink=ubereats://&adjust_engagement_type=fallback_click&adjust_fallback=https://itunes.apple.com/za/app/ubereats-delivery-takeout/id1031141698?mt=8"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://img.ubereats.com/192x192/seo/00d11e7e-1b09-4ae2-9fd2-4bd1532a90fa.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.ubereats.com/512x512/seo/00d11e7e-1b09-4ae2-9fd2-4bd1532a90fa.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#6DCEF5",
+  "display": "browser",
+  "theme_color": "#6DCEF5"
+}
